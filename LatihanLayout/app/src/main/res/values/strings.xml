@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyViewAndView</string>
+    <string name="content_text">Google secara resmi mengumumkan ponsel
+        Pixel yang sangat dinantikan; Pixel dan Pixel XL, pada tanggal 4 Oktober.
+        Kami menghadiri acara Google di London, Inggris, yang mencerminkan acara utama yang berlangsung
+        di San Francisco, AS, di mana perusahaan tersebut memperkenalkan perangkat Android 7.1 Nougat
+        baru yang kabarnya akan menggantikan seri Nexus lama Google.</string>
+    <string name="content_specs_display">5.0 inci\n
+        FHD AMOLED pada 441ppi\n
+        2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inci
+        143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">Baterai 2,770 mAh\n
+        Waktu siaga (LTE): hingga 19 hari\n
+        Waktu bicara (3g/WCDMA): hingga 26 jam\n
+        Waktu penggunaan internet (Wi-Fi): hingga 13 jam\n
+        Waktu penggunaan internet (LTE): hingga 13 jam\n
+        Pemutaran video: hingga 13 jam\n
+        Pemutaran audio (melalui headset): hingga 110 jam\n
+        Pengisian cepat: hingga 7 jam penggunaan hanya dari 15 menit pengisian</string>
+    <string name="dummy_photo">6 Photos</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="stock">Stock Hanya 5 Buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="by_name">Andri Febriyadi Putra</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+</resources>
